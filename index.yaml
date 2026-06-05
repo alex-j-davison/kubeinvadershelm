@@ -6,13 +6,13 @@ entries:
     created: "2025-07-08T15:18:28.394127+02:00"
     description: A Helm chart for KubeInvaders
     digest: acaa21955567af132d81900aa581259b77d6db46f58e29c1594a7f6227d5c21f
-    home: https://github.com/alex-j-davison/kubeinvaders
+    home: https://github.com/splunk/kubeinvaders
     maintainers:
     - email: luckysideburn@gmail.com
       name: lucky-sideburn
     name: kubeinvaders
     sources:
-    - https://github.com/alex-j-davison/kubeinvaders
+    - https://github.com/splunk/kubeinvaders
     urls:
     - kubeinvaders-1.9.8.tgz
     version: 1.9.8
@@ -21,13 +21,13 @@ entries:
     created: "2025-07-08T15:18:28.393302+02:00"
     description: A Helm chart for KubeInvaders
     digest: ac7b0b690e92209e442cd6db042326c6f9b153dda2bd30d970b3280753910545
-    home: https://github.com/alex-j-davison/kubeinvaders
+    home: https://github.com/splunk/kubeinvaders
     maintainers:
     - email: luckysideburn@gmail.com
       name: lucky-sideburn
     name: kubeinvaders
     sources:
-    - https://github.com/alex-j-davison/kubeinvaders
+    - https://github.com/splunk/kubeinvaders
     urls:
     - kubeinvaders-1.9.7.tgz
     version: 1.9.7
