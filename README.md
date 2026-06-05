@@ -1,4 +1,4 @@
-# KubeInvaders Helm Chart Repository
+# KubeInvaders Helm Chart Repository 
 
 ## Usage
 
@@ -10,9 +10,12 @@ kubectl create namespace kubeinvaders
 
 helm install kubeinvaders --set-string config.target_namespace="namespace1\,namespace2" \
 -n kubeinvaders kubeinvaders/kubeinvaders --set ingress.enabled=true --set ingress.hostName=kubeinvaders.io --set deployment.image.tag=v1.9.6
-  
 ```
 
-## Values
+## Helm Values
 
-See the [values.yaml](./values.yaml) for a full list of configuration options.
+| Variable            | Description                            |
+| ------------------- | -------------------------------------- |
+| image.tag           | Specify tag of KubeInvaders to deploy  |
+| ingress.hostName    | URL used for ingress                   |
+| target_namespace    | namespaces to take under control       |
