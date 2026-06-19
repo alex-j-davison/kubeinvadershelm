@@ -6,13 +6,13 @@ entries:
     created: "2025-07-08T15:18:28.393302+02:00"
     description: A Helm chart for KubeInvaders
     digest: ac7b0b690e92209e442cd6db042326c6f9b153dda2bd30d970b3280753910545
-    home: https://github.com/splunk/kubeinvaders
+    home: https://github.com/alex-j-davison/kubeinvaders
     maintainers:
     - email: luckysideburn@gmail.com
       name: lucky-sideburn
     name: kubeinvaders
     sources:
-    - https://github.com/splunk/kubeinvaders
+    - https://github.com/alex-j-davison/kubeinvaders
     urls:
     - kubeinvaders-1.9.7.tgz
     version: 1.9.7
